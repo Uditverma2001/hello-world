@@ -1,2 +1,2 @@
 # hello-world
-Working according to the guid
+Working according to the guide
